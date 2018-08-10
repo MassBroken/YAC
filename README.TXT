@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------------
-******** File README del progetto ********    Qui dovresti descrivere il progetto.
-Chi legge questo file, pur non sapendo nulla del progetto, dovrebbe ottenere tutte
-le informazioni di cui ha bisogno. Probabilmente le informazioni essenziali sono:
-----------------------------------------------------------------------------------
+PROJECT'S NAME: YAC
+PROJECT'S AIM: To Menage a Chat Service
+VERSION:1.0.0
+HOW TO RUN THE PROJECT:Open the project with BlueJ, then you can start the 2 main classes ("Mainanza", "Main"). To make sure it works you have to create an HyperSQL database, called "datachat", which contains two tables: Accounts and Connections. Accounts must contain 3 fields: Nick, Psw and Ind. Connections must contain: Id, Nick, Nick1.
+AUTHORS: massarotti.antonino@gmail.com (dragonforce990)
 
-NOME DEL PROGETTO:
-OBIETTIVO DEL PROGETTO
-VERSIONE oppure DATA:
-COME AVVIARE IL PROGETTO:
-AUTORI:
-ISTRUZIONI PER L'UTENTE:
